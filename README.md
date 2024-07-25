@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Java Spring Framework & Microservices**
 
-- 👨‍💻 All of my projects are available at [Github/CodeSagePath](https://github.com/CodeSagePath)
+- 👨‍💻 All of my projects are available at [CodeSagePath](https://github.com/CodeSagePath)
 
 - 💬 Ask me about **Flutter, JavaScript, React, Node.js, Shell Scripting and Linux**
 
