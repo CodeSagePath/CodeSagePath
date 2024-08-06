@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rishigarg185@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eRwQgZFGZBQbBsKLMYA8iWcfT_qyAnbO/view](https://drive.google.com/file/d/1eRwQgZFGZBQbBsKLMYA8iWcfT_qyAnbO/view)
+- 📄 Know about my experiences [https://tinyurl.com/rishigarg](https://tinyurl.com/rishigarg)
 
 - 👨‍💻 My Leetcode Profile [CodeSagePath](https://www.leetcode.com/u/codesagepath)
 
