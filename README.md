@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/rishigarg](https://tinyurl.com/rishigarg)
 
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1eRwQgZFGZBQbBsKLMYA8iWcfT_qyAnbO/view](https://drive.google.com/file/d/1eRwQgZFGZBQbBsKLMYA8iWcfT_qyAnbO/view) -->
+
 - 👨‍💻 My Leetcode Profile [CodeSagePath](https://www.leetcode.com/u/codesagepath)
 
 - 💬 My LinkedIn Profile [RishiGarg09](https://www.linkedin.com/in/rishigarg09) 
