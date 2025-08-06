@@ -7,11 +7,11 @@
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
 <!-- </p> -->
 
-- 🌱 I’m currently learning **React Native, Java Spring Framework & Microservices**
+- 🌱 I’m currently learning **React, Java Spring Framework, Machine Learning & Microservices**
 
 - 👨‍💻 All of my projects are available at [CodeSagePath](https://github.com/CodeSagePath)
 
-- 💬 Ask me about **Flutter, JavaScript, React, Node.js, Shell Scripting and Linux**
+- 💬 Ask me about **Problem Solving, Flutter, Python, JavaScript, Shell Scripting, Rest APIs and Linux**
 
 - 📫 How to reach me **rishigarg185@gmail.com**
 
