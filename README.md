@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rishigarg185@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/rishigarg](https://tinyurl.com/rishigarg)
+- 📄 Know about my experiences [Resume - Rishi_Garg.pdf](https://firebasestorage.googleapis.com/v0/b/paygo-assignment-752fe.appspot.com/o/Rishi_Garg.pdf?alt=media&token=a60450e1-a5ec-4948-972b-a67ef696d6d9)
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1eRwQgZFGZBQbBsKLMYA8iWcfT_qyAnbO/view](https://drive.google.com/file/d/1eRwQgZFGZBQbBsKLMYA8iWcfT_qyAnbO/view) -->
 
