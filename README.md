@@ -3,15 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codesagepath&label=Profile%20views&color=0e75b6&style=flat" alt="codesagepath" /> </p>
 
-- 🌱 I’m currently learning **React Native, Java Spring Framework & Microservices**
+- 🌱 I’m currently learning **React, Java Spring Framework, Machine Learning & Microservices**
 
 - 👨‍💻 All of my projects are available at [CodeSagePath](https://github.com/CodeSagePath)
 
-- 💬 Ask me about **Flutter, JavaScript, React, Node.js, Shell Scripting and Linux**
+- 💬 Ask me about **Problem Solving, Flutter, Python, JavaScript, Shell Scripting, Rest APIs and Linux**
 
 - 📫 How to reach me **rishigarg185@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/rishigarg](https://tinyurl.com/rishigarg) 
+- 📄 Know about my experiences [Resume - Rishi_Garg.pdf](https://firebasestorage.googleapis.com/v0/b/paygo-assignment-752fe.appspot.com/o/Rishi_Garg.pdf?alt=media&token=a60450e1-a5ec-4948-972b-a67ef696d6d9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
