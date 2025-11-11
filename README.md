@@ -42,7 +42,7 @@
 <a href="https://instagram.com/rishi__garg" target="blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rishi__garg" style="height: 40px;"/>
 </a>
-<a href="https://www.hackerrank.com/profile/rishigarg09" target="blank">
+<a href="https://www.hackerrank.com/profile/codesagepath" target="blank">
   <img src="https://img.shields.io/badge/Hackerrank-2EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="rishigarg09" style="height: 40px;"/>
 </a>
 <a href="https://codeforces.com/profile/rishigarg09" target="blank">
