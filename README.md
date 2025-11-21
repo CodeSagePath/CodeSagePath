@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/codesagepath">
-    <img src="https://github.com/Anmol-Baranwal/Cool-Readme-Stuff/raw/master/GIFs/gradient.gif" width="100%" style="border-radius: 15px; margin-bottom: 20px;"/>
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" style="border-radius: 15px; margin-bottom: 20px;"/>
   </a>
 </h1>
 
@@ -25,7 +25,7 @@
 - 📄 Know about my experiences [Resume - Rishi_Garg.pdf](https://firebasestorage.googleapis.com/v0/b/paygo-assignment-752fe.appspot.com/o/Rishi_Garg.pdf?alt=media&token=a60450e1-a5ec-4948-972b-a67ef696d6d9)
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-Readme-Stuff/raw/master/GIFs/divider.gif" width="70%" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70%" style="border-radius: 10px;"/>
 </p>
 
 <h3 align="center">🌐 Connect with me:</h3>
@@ -65,26 +65,30 @@
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-Readme-Stuff/raw/master/GIFs/divider.gif" width="70%" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70%" style="border-radius: 10px;"/>
 </p>
 
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codesagepath&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="codesagepath" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codesagepath&theme=radical&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=C9D1D9" alt="codesagepath achievements" width="90%"/>
+  <br>
+  <em>Building my GitHub presence one commit at a time! 🚀</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-Readme-Stuff/raw/master/GIFs/coding.gif" width="50%" style="border-radius: 10px; margin-top: 20px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJnZGY2b3BocnBzd3RjdDZmaXBzZjFmMmU3dDZoNnRic2p5d3I5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" style="border-radius: 10px; margin-top: 20px;"/>
 </p>
 
 <h3 align="center">🔥 My Contribution Heatmap</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codesagepath&theme=react-dark&hide_border=true&bg_color=0D1117&color=0e75b6&line=58A6FF&point=FFB86C&radius=8" alt="contribution heatmap" width="90%"/>
+  <img src="https://streak-stats.demolab.com?user=codesagepath&theme=radical&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=C9D1D9" alt="contribution heatmap" width="90%"/>
+  <br>
+  <em>Stay consistent, keep contributing! 📈</em>
 </p>
 
 <h3 align="center">⚡ Recent GitHub Activity</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codesagepath&theme=radical&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=C9D1D9" alt="wakatime stats" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=codesagepath&repo=CodeSagePath&theme=radical&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=C9D1D9" alt="recent repository" width="80%"/>
 </p>
 
 <h3 align="center">🎮 GitHub Profile Game</h3>
@@ -117,5 +121,5 @@
 
 <h3 align="center">💫 Thanks for visiting my profile! Have an amazing day! 💫</h3>
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-Readme-Stuff/raw/master/GIFs/stars.gif" width="60%" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/iI8MdzTct6GVBm1D3M/giphy.gif" width="60%" style="border-radius: 10px;"/>
 </p>
