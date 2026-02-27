@@ -1,31 +1,27 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Rishi%20Garg&fontSize=90&fontAlign=50&fontAlignY=28&desc=Full%20Stack%20Developer%20%7C%20India&descAlign=50&descSize=30&descAlignY=56&animation=twinkling" />
+</p>
 
-  <h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 48px; margin-bottom: 10px;">
-    Rishi Garg
-  </h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&width=380&height=45&lines=Hi+there!%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
+</h>
 
-  <h3 style="color: #8b949e; font-size: 20px; margin-top: 0; margin-bottom: 20px;">
-    Full Stack Developer | India
-  </h3>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=codesagepath&label=Profile%20views&color=0e75b6&style=flat" alt="codesagepath" />
-    <img src="https://img.shields.io/badge/followers-50+-blue?style=social&logo=github" alt="followers" />
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codesagepath&label=Profile%20views&color=0e75b6&style=flat" alt="codesagepath" />
+  <img src="https://img.shields.io/badge/followers-50+-blue?style=social&logo=github" alt="followers" />
+</p>
 
 ---
 
-- Currently learning **React, React Native, Supabase, Java Spring Framework, Machine Learning & Microservices**
-- All of my projects are available at [CodeSagePath](https://github.com/CodeSagePath)
-- Ask me about **Problem Solving, Flutter, Python, JavaScript, Shell Scripting, Rest APIs and Linux**
-- How to reach me: **rishigarg185@gmail.com**
-- Know about my experiences: [Resume - Rishi_Garg.pdf](https://firebasestorage.googleapis.com/v0/b/paygo-assignment-752fe.appspot.com/o/Rishi_Garg.pdf?alt=media&token=a60450e1-a5ec-4948-972b-a67ef696d6d9)
+- 🌱 I'm currently learning **React, React Native, Supabase, Java Spring Framework, Machine Learning & Microservices**
+- 👨‍💻 All of my projects are available at [CodeSagePath](https://github.com/CodeSagePath)
+- 💬 Ask me about **Problem Solving, Flutter, Python, JavaScript, Shell Scripting, Rest APIs and Linux**
+- 📫 How to reach me: **rishigarg185@gmail.com**
+- 📄 Know about my experiences: [Resume](https://firebasestorage.googleapis.com/v0/b/paygo-assignment-752fe.appspot.com/o/Rishi_Garg.pdf?alt=media&token=a60450e1-a5ec-4948-972b-a67ef696d6d9)
 
 <br>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://twitter.com/rishi__garg" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
@@ -45,19 +41,26 @@
   <a href="https://www.leetcode.com/u/codesagepath" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://instagram.com/rishi__garg" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 <br>
 
-<h3 align="center">GitHub Analytics</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codesagepath&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=C9D1D9&icon_color=0e75b6" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesagepath&theme=radical&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=C9D1D9" alt="Streak Stats" width="45%"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesagepath&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=C9D1D9" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codesagepath&theme=radical&hide_border=true&bg_color=0D1117&color=0e75b6&line=0e75b6&point=0e75b6" alt="Activity Graph" width="45%"/>
+</p>
 
 <br>
 
-<h3 align="center">Technical Skills</h3>
+<h3 align="center">💻 Technical Skills</h3>
 
 <h4 align="center" style="color: #8b949e; font-size: 14px;">Languages</h4>
 <p align="center">
@@ -109,8 +112,10 @@
 
 <br>
 
-<h3 align="center">GitHub Achievements</h3>
+<h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codesagepath&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy Card" width="90%"/>
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codesagepath&theme=radical&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=C9D1D9" alt="Productivity Time" width="90%"/>
   <br>
   <em>Building my GitHub presence one commit at a time</em>
@@ -118,7 +123,7 @@
 
 <br>
 
-<h3 align="center">Featured Repositories</h3>
+<h3 align="center">⭐ Featured Repositories</h3>
 <p align="center">
   <a href="https://github.com/codesagepath/CodeSagePath">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=codesagepath&repo=CodeSagePath&theme=radical&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=C9D1D9" alt="CodeSagePath" width="45%"/>
@@ -130,36 +135,15 @@
 
 <br>
 
-<h3 align="center">GitHub Profile Game</h3>
+<h3 align="center">🐍 Contribution Visualizations</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codesagepath&theme=radical&hide_border=true&bg_color=0D1117&title_color=0e75b6&text_color=C9D1D9" alt="Profile Game" width="90%"/>
-</p>
-
-<br>
-
-<h3 align="center">Contribution Snake</h3>
-<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api/account?username=codesagepath&theme=radical&hide_border=true&animation=spin" alt="3D Contributions" width="90%"/>
+  <br>
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="width: 90%; border-radius: 15px;"/>
 </p>
 
 <br>
 
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=codesagepath&icon=8&color=12)](https://visitcount.itsvg.in)
-
-<a href="https://github.com/codesagepath?tab=followers">
-  <img src="https://img.shields.io/github/followers/codesagepath?label=Followers&style=social&logo=github&color=0e75b6" alt="GitHub followers"/>
-</a>
-
-<a href="https://github.com/codesagepath?tab=stars">
-  <img src="https://img.shields.io/github/stars/codesagepath?label=Stars&style=social&logo=github&color=0e75b6" alt="GitHub stars"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <h3 style="color: #8b949e;">Thanks for visiting my profile! Have an amazing day!</h3>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+</p>
