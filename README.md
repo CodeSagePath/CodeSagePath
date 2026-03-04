@@ -12,6 +12,7 @@
 - 🔭 Full Stack Developer based in **Bengaluru, India** with experience across web, mobile, and backend systems.
 - 🌱 Currently exploring **React Native, Supabase, Java Spring Framework, Machine Learning & Microservices**.
 - 💬 Ask me about **Flutter, Python, JavaScript, Node.js, Shell Scripting, REST APIs, and Linux**.
+- 🌐 Portfolio: **[codesagepath.github.io](https://codesagepath.github.io)**
 - 📫 Reach me at **[rishigarg185@gmail.com](mailto:rishigarg185@gmail.com)**
 - 📄 [View my Resume](https://drive.google.com/file/d/1eRwQgZFGZBQbBsKLMYA8iWcfT_qyAnbO/view)
 
