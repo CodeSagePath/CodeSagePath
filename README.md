@@ -78,8 +78,8 @@ Hello! I'm a passionate **Full Stack Developer** based in **Bengaluru, India**. 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codesagepath&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777777&icon_color=0e75b6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesagepath&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777777" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codesagepath&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777777&icon_color=0e75b6" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codesagepath&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777777" alt="Top Languages" width="48%" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=codesagepath&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=0e75b6&ring=0e75b6" alt="GitHub Streak" />
 </div>
